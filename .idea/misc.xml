@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/erik9/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
         <entry key="..\:/Users/erik9/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/erik9/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/parte2calendario.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/erik9/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/parte2calendario.xml" value="0.22" />
+        <entry key="..\:/Users/erik9/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/registro.xml" value="0.22" />
+        <entry key="..\:/Users/erik9/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/registro2.xml" value="0.18" />
       </map>
     </option>
   </component>
